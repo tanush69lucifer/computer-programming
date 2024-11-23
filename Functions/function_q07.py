@@ -1,4 +1,4 @@
-# str reverse
+# str reversing
 s=input("Enter a string: ")
 def reverse_string(s):
     return s[::-1]
