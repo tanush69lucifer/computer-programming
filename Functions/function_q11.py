@@ -1,4 +1,4 @@
-# product of all element in a list
+# product of all element in a list . 
 lst=list(map(int, input("Enter numbers separated by commas: ").split(",")))
 def product_list(lst):
     result = 1
