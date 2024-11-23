@@ -1,4 +1,5 @@
 # checking element existing in tuple
+# simple is the key
 t=tuple(input("Enter a list of items separated by commas: ").split(","))
 e=input("Enter the element to check: ")
 if e in t:
