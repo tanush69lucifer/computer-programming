@@ -1,4 +1,4 @@
-# checking if str has digit
+# checking if str has digit . 
 s=input("Enter a string: ")
 def is_digit(s):
     return s.isdigit()
