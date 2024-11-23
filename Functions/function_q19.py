@@ -1,5 +1,5 @@
-# checking if str has digit
-s=input("Enter a string: ")
-def is_digit(s):
-    return s.isdigit()
-print(f"Contains only digits? {is_digit(s)}")
+# list to string
+lst=input("Enter elements separated by commas: ").split(",")
+def list_to_string(lst):
+    return ''.join(lst)
+print("Converted string:", list_to_string(lst))
