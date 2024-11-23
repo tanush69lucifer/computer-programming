@@ -1,4 +1,4 @@
-# gcd of two numbers 
+# gcd of two numbers .
 a=int(input("Enter first number: "))
 b=int(input("Enter second number: "))
 def gcd(a, b):
