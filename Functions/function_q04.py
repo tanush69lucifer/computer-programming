@@ -1,4 +1,4 @@
-# factorial 
+# factorial of a num
 n=int(input("Enter a number: "))
 def factorial(n):
     result = 1
