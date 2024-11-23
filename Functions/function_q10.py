@@ -1,4 +1,4 @@
-# length of list
+# length of list .
 lst=input("Enter elements separated by commas: ").split(",")
 def list_length(lst):
     return len(lst)
