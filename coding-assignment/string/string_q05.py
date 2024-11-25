@@ -1,4 +1,5 @@
 # length of longest word
+# str
 s=input("Enter a sentence: ")
 w=s.split()
 if len(w)==0:
