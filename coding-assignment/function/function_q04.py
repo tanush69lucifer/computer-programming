@@ -1,4 +1,5 @@
 # factorial 
+# fn 
 n=int(input("Enter a number: "))
 def factorial(n):
     result = 1
