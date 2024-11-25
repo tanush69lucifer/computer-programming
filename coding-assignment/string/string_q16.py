@@ -1,4 +1,5 @@
 # removing duplicates from string
+# str
 s=input("Enter a string: ")
 u="".join(sorted(set(s),key=s.index))
 if u==s:
