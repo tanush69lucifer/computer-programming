@@ -1,4 +1,5 @@
 # remove duplicates from a list
+# fn 
 lst=input("Enter elements separated by commas: ").split(",")
 def remove_duplicates(lst):
     return list(set(lst))
