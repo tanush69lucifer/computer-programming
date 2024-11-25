@@ -1,4 +1,5 @@
 # character frequency
+# str
 s=input("Enter a string: ")
 c={}
 for ch in s:
