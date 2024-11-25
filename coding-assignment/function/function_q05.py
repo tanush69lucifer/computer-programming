@@ -1,4 +1,5 @@
 # number is prime nor not
+# fn 
 n=int(input("Enter a number: "))
 def is_prime(n):
     if n <= 1:
