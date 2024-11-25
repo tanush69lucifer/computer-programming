@@ -1,4 +1,5 @@
 # rotating string
+# sttr
 s=input("Enter a string: ")
 n=int(input("Rotate by: "))
 if n==0 or n==len(s):
