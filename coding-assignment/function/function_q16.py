@@ -1,4 +1,5 @@
 # sum of digits of a number
+# fm 
 n=int(input("Enter a number: "))
 def sum_of_digits(n):
     return sum(int(digit) for digit in str(n))
