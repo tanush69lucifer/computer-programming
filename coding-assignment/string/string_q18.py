@@ -1,4 +1,5 @@
 # occurance of substrings
+# str
 s=input("Enter a string: ")
 sub=input("Enter substring: ")
 c=s.count(sub)
