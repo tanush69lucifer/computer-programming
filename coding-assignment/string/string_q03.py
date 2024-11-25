@@ -1,4 +1,5 @@
 # vowel n consonent count
+# str
 s = input("Enter a string: ")
 v ="aeiou"
 vc = sum(1 for c in s if c in v)
