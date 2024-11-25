@@ -1,4 +1,5 @@
 # string compression
+# strr
 s=input("Enter a string: ")
 comp=""
 count=1
