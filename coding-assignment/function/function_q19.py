@@ -1,4 +1,5 @@
 # list to string
+# fn 
 lst=input("Enter elements separated by commas: ").split(",")
 def list_to_string(lst):
     return ''.join(lst)
