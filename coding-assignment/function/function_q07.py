@@ -1,4 +1,5 @@
 # str reverse
+# fn 
 s=input("Enter a string: ")
 def reverse_string(s):
     return s[::-1]
