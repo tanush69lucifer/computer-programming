@@ -1,4 +1,5 @@
 # pallindrome 
+# str
 s=input("Enter a string: ")
 p=s==s[::-1]
 if p:
