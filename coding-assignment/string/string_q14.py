@@ -1,4 +1,5 @@
 # most frequent character
+# str
 s=input("Enter a string: ")
 c={}
 for ch in s:
