@@ -1,4 +1,5 @@
 # removing element from list
+# lst
 lst=input("Enter elements separated by commas: ").split(",")
 e=input("Enter the element to remove: ")
 if e in lst:
