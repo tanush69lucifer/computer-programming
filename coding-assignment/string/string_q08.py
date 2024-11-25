@@ -1,4 +1,5 @@
 # first non repeated character
+# str
 s=input("Enter a string: ")
 found=False
 for ch in s:
