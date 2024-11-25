@@ -1,4 +1,5 @@
 # getting value of a specific key
+# dct 
 d = dict(input("Enter key-value pairs (key:value) separated by commas: ").split(","))
 k = input("Enter the key to fetch its value: ")
 if k in d:
