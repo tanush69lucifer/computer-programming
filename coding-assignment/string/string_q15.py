@@ -1,4 +1,5 @@
 # checking if string contains digit
+# str
 s=input("Enter a string: ")
 d=s.isdigit()
 if not d:
