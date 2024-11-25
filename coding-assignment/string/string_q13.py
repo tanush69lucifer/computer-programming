@@ -1,4 +1,5 @@
 # string to uppercase n lowercase
+# str
 s=input("Enter a string: ")
 u=s.upper()
 l=s.lower()
