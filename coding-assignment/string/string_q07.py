@@ -1,4 +1,5 @@
 # replacing substring
+# str
 s=input("Enter a string: ")
 o=input("Old substring: ")
 n=input("New substring: ")
