@@ -1,4 +1,5 @@
 # whitespace remover
+# str
 s=input("Enter a string: ")
 c=s.strip()
 if c==s:
