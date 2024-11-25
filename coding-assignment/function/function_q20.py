@@ -1,4 +1,5 @@
 # merging two lists
+# fn 
 lst1=input("Enter the first list (comma separated): ").split(",")
 lst2=input("Enter the second list (comma separated): ").split(",")
 def merge_lists(lst1, lst2):
