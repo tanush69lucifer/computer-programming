@@ -1,4 +1,5 @@
 # fibonacci 
+# fn 
 n=int(input("Enter a number: "))
 def fibonacci(n):
     a, b = 0, 1
